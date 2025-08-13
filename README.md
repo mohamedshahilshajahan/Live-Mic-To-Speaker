@@ -1,8 +1,7 @@
 # 🎤 LiveMicToSpeaker 
 
-[![Downloads](https://img.shields.io/github/downloads/mohamedshahilshajahan/Live-Mic-To-Speaker/total.svg?style=flat-square)](https://github.com/mohamedshahilshajahan/Live-Mic-To-Speaker/releases)
-[![Downloads](https://img.shields.io/github/downloads/mohamedshahilshajahan/LiveMicToSpeaker/total?color=brightgreen&style=for-the-badge)](https://github.com/mohamedshahilshajahan/Live-Mic-To-Speaker/releases)
-[![Version](https://img.shields.io/github/v/release/mohamedshahilshajahan/LiveMicToSpeaker?style=for-the-badge&color=blue)](https://github.com/mohamedshahilshajahan/Live-Mic-To-Speaker/releases)
+[![Downloads](https://img.shields.io/github/downloads/mohamedshahilshajahan/Live-Mic-To-Speaker/total?color=brightgreen&style=for-the-badge)](https://github.com/mohamedshahilshajahan/Live-Mic-To-Speaker/releases)
+[![Version](https://img.shields.io/github/v/release/mohamedshahilshajahan/Live-Mic-To-Speaker?style=for-the-badge&color=blue)](https://github.com/mohamedshahilshajahan/Live-Mic-To-Speaker/releases)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 ## 📌 About
