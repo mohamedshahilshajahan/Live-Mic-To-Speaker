@@ -35,15 +35,15 @@ Python script version requires installing dependencies from `requirements.txt`.
 
 ## 📥 Installation
 **Option 1 – Portable EXE**
-1. Download from [Releases](https://github.com/mohamedshahilshajahan/LiveMicToSpeaker/releases)
+1. Download from [Releases]([https://github.com/mohamedshahilshajahan/LiveMicToSpeaker/releases](https://github.com/mohamedshahilshajahan/Live-Mic-To-Speaker/releases/download/LiveMictoSpeaker/LMTS_Portable.exe))
 2. Run the `.exe` — no installation required.
 
 **Option 2 – Installable EXE**
-1. Download the setup file from [Releases](https://github.com/mohamedshahilshajahan/LiveMicToSpeaker/releases)
+1. Download the setup file from [Releases]([https://github.com/mohamedshahilshajahan/LiveMicToSpeaker/releases](https://github.com/mohamedshahilshajahan/Live-Mic-To-Speaker/releases/download/LiveMictoSpeaker/LMTS_Setup.exe))
 2. Follow the installation wizard.
 
 **Option 3 – Python Script**
-```bash
+
 pip install -r requirements.txt
 python lmts.py
 
