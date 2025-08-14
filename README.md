@@ -1,7 +1,5 @@
 # 🎤 LiveMicToSpeaker 
 
-| ![LMTS-Working-Instructions](https://i.postimg.cc/G3HQ1B98/LMTS-Working-Instructions.gif) |
-
 [![Downloads](https://img.shields.io/github/downloads/mohamedshahilshajahan/LiveMicToSpeaker/total?color=brightgreen&style=for-the-badge)](https://github.com/mohamedshahilshajahan/LiveMicToSpeaker/releases)
 [![Version](https://img.shields.io/github/v/release/mohamedshahilshajahan/LiveMicToSpeaker?style=for-the-badge&color=blue)](https://github.com/mohamedshahilshajahan/LiveMicToSpeaker/releases)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
